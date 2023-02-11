@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    font-size: 2em;
+}
+
+h3{
+    font-size: 1.5em;
+}
+
+header{
+    height: 300px;
+    text-align: end;
+}
+
+body{
+    display: block;
+    margin: 0 auto;
+}
+
+#content{
+    max-width: 800px;
+    margin:0;
+}
+
+footer{
+    background-color: gray;
+}
+
+footer img{
+    width: 25%;
+    border: 10px solid rgb(80, 80, 80);
+    border-radius: 50%;
+    margin: 20px 10px;
+
+}
