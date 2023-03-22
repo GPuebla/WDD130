@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Alata&family=Bellefair&display=swap');
 
 :root {
-    /* change the values below to your colors from your palette */
-    --primary-color: #F9A799   ;
+    /* change the values below to your colors from your palette #F9A799*/
+    --primary-color: red;
     --secondary-color: #B7CBBF ;
     --accent1-color: #F5DABD;
     --accent2-color:#000000;
