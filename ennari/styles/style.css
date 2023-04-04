@@ -115,7 +115,6 @@ nav a:hover {
 .cards p{
     font-size: 1.4em;
     text-align: center;
-    border: solid 1px red;
     padding: 30px 35px;
 }
 
@@ -129,18 +128,17 @@ nav a:hover {
 
 #card-analisis{
     grid-column: 1;
-    border: solid 1px blue;
 
 }
 
 #card-strategic_plan{
     grid-column: 2;
-    border: solid 1px blue;
+
 }
 
 #card-implementation{
     grid-column: 3;
-    border: solid 1px blue;
+
 }
 
 
