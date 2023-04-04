@@ -31,6 +31,16 @@ h2{
     text-shadow: 2px 2px white;
 }
 
+.sub-title{
+    font-size: 1.8em;
+    color: red;
+    background-color: red;
+}
+
+h1{
+    color:red;
+}
+
 .logo{
     border-radius: 50%;
 }
